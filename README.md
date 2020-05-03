@@ -1,5 +1,6 @@
 # Pytorch_Cabbage_Price
-Pytorch, Python 을 사용한 배추가격예측
+Pytorch, Python 을 사용한 배추가격예측 <br>
+Kaggle - Me : https://www.kaggle.com/coolfamily77
 
 ## 모델 학습 <br>
 **[1] H(x) = Wx+b  함수로 가설을 설정하였습니다.**  <br>
